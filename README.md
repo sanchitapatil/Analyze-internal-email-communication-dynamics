@@ -19,66 +19,17 @@ The Onyx Data July 2024 Challenge focuses on decoding corporate conversations by
 
 ## Key Insights and Analysis
 ### Optimized Communication
-- **KPI Cards:**
-  - Number of Emails
-  - Positive Sentiment Emails
-  - Negative Sentiment Emails
-- **Analysis:**
-  - ZoomCharts Advanced Pie Chart for sentiment distribution.
-  - ZoomCharts Time Series Chart for trends over time.
-- **Slicers:**
-  - Date
-  - Department
-  - Topic
-
 ### Identifying Key Players
-- **KPI Cards:**
-  - Number of Emails Sent
-  - Number of Emails Received
-- **Analysis:**
-  - ZoomCharts Drill Down Network Chart for communication flow.
-- **Slicers:**
-  - Date
-  - Department
-  - Seniority
-
 ### Spotting Communication Gaps
-- **KPI Cards:**
-  - Average Response Time
-- **Analysis:**
-  - ZoomCharts Network Graph for identifying communication gaps.
-- **Slicers:**
-  - Date
-  - Department
-  - Seniority
-
 ### Structuring Communication
-- **KPI Cards:**
-  - Number of Emails by Topic
-- **Analysis:**
-  - ZoomCharts Pie Chart for topic distribution.
-- **Slicers:**
-  - Date
-  - Department
-  - Topic
-
 ### Timing and Activity Insights
-- **KPI Cards:**
-  - Emails Sent During Work Hours
-  - Emails Sent Outside Work Hours
-- **Analysis:**
-  - ZoomCharts Line Chart for timing analysis.
-  - ZoomCharts Advanced Pie Chart for device usage distribution.
-- **Slicers:**
-  - Date
-  - Device
-  - Work Hours
-
-## Dashboard Access
-[Dashboard Link](internal email communication dynamics.pbix)
 
 ## Screenshot
 ![Dashboard Screenshot](final_dashboard.png)
+
+## Download the .pbix File
+You can download the Power BI report file from the link below:
+[Download .pbix File](https://github.com/sanchitapatil/Analyze-internal-email-communication-dynamics/raw/main/internal_email_communication_dynamics.pbix)
 
 ## Conclusion
 Participating in the Onyx Data July 2024 Challenge has been a rewarding experience, providing an opportunity to enhance my data analysis skills and learn to use ZoomCharts visuals effectively. This project has enabled me to gain valuable insights into corporate communication dynamics and contribute to organizational efficiency.
