@@ -78,7 +78,7 @@ The Onyx Data July 2024 Challenge focuses on decoding corporate conversations by
 [Dashboard Link](insert_dashboard_link_here)
 
 ## Screenshot
-![Dashboard Screenshot](insert_screenshot_link_here)
+![Dashboard Screenshot](final_dashboard.png)
 
 ## Conclusion
 Participating in the Onyx Data July 2024 Challenge has been a rewarding experience, providing an opportunity to enhance my data analysis skills and learn to use ZoomCharts visuals effectively. This project has enabled me to gain valuable insights into corporate communication dynamics and contribute to organizational efficiency.
