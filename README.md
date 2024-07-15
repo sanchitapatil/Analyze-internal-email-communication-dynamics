@@ -75,7 +75,7 @@ The Onyx Data July 2024 Challenge focuses on decoding corporate conversations by
   - Work Hours
 
 ## Dashboard Access
-[Dashboard Link](insert_dashboard_link_here)
+[Dashboard Link](internal email communication dynamics.pbix)
 
 ## Screenshot
 ![Dashboard Screenshot](final_dashboard.png)
